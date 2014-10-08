@@ -1,0 +1,12 @@
+c:\users\glaucia\documents\visual studio 2012\Projects\Aula_08\Site\bin\Site.dll
+c:\users\glaucia\documents\visual studio 2012\Projects\Aula_08\Site\bin\Site.pdb
+c:\users\glaucia\documents\visual studio 2012\Projects\Aula_08\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+c:\users\glaucia\documents\visual studio 2012\Projects\Aula_08\Site\obj\Debug\Site.dll
+c:\users\glaucia\documents\visual studio 2012\Projects\Aula_08\Site\obj\Debug\Site.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_08\Site\bin\Site.dll
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_08\Site\bin\Site.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_08\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_08\Site\obj\Debug\Site.dll
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_08\Site\obj\Debug\Site.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_08\Site\bin\DAL.dll
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_08\Site\bin\DAL.pdb

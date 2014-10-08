@@ -1,0 +1,10 @@
+﻿create table cliente (
+	
+	idcliente		integer 		auto_increment,
+	nome 			nvarchar(50)	not null,
+	email			nvarchar(50)	not null,
+	datanascimento	date			not null,
+	detalhes		text			not null,
+	primary key(idcliente));
+
+desc cliente;
